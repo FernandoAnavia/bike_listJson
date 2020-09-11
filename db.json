@@ -1,3 +1,4 @@
+{
   [
     {"Id":1, "Name": "smithfield", "Lat": 53.349562, "Lon":-6.278198, "address": "57 Smithfield, Arbour Hill, Dublin, D07 F6HV Arbour Hill Dublin Ireland"},
   {"Id":2, "Name": "Parnell", "Lat": 53.353462, "Lon":-6.265305, "address": "31/32 Parnell Square West, Arbour Hill, Dublin, D01 YR92 Arbour Hill Dublin Ireland"},
@@ -17,4 +18,5 @@
   {"Id":16, "Name": "airport", "Lat": 53.424995, "Lon":-6.25639, "address": "West Apron, Old Naul Road, Huntstown, Airport ED, Fingal, County Dublin, Leinster, K67 A5W6, Ireland"},
   
   ]
+}
   
