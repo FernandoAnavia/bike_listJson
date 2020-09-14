@@ -1,5 +1,5 @@
 {  
-[
+"bikesListJson" [
   {"Id":1, "Name": "smithfield", "Lat": 53.349562, "Lon":-6.278198, "address": "57 Smithfield, Arbour Hill, Dublin, D07 F6HV Arbour Hill Dublin Ireland"},
   {"Id":2, "Name": "Parnell", "Lat": 53.353462, "Lon":-6.265305, "address": "31/32 Parnell Square West, Arbour Hill, Dublin, D01 YR92 Arbour Hill Dublin Ireland"},
   {"Id":3, "Name": "Clommel", "Lat": 53.336021, "Lon":-6.26298, "address": "1 Clonmel Street, Cathal Brugha Barracks, Dublin, D02 NX65 Cathal Brugha Barracks Dublin Ireland"},
